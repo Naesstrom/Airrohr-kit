@@ -1,0 +1,47 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=luftdata_pcb_wemos
+*Date=08:14:07
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;29.345;-11.3263;0;Bottom;Via1
+2;;;42.1963;-21.0512;0;Bottom;TXT2
+3;;;56.2031;-32.2107;-90;Bottom;TXT2
+4;;;39.7217;-52.7189;-90;Bottom;TXT2
+5;;;44.8017;-55.5303;-90;Bottom;TXT2
+6;;THT;40.7836;-34.1667;90;Bottom;J3
+7;4.7k;THT;20.455;-26.5663;90;Bottom;R1
+8;;;58.6824;-52.6116;-90;Bottom;TXT2
+9;;;53.6631;-32.3989;-90;Bottom;TXT2
+10;;;51.184;-52.6357;-90;Bottom;TXT2
+11;;THT;54.745;-41.8063;-90;Bottom;J6
+12;;THT;38.235;-25.2963;0;Bottom;J9
+13;;;42.2617;-52.5307;-90;Bottom;TXT2
+14;;;22.2933;-63.856;0;Bottom;TXT3
+15;;THT;40.7836;-49.4067;90;Bottom;J4
+16;;;51.2642;-2.98426;-90;Bottom;TXT2
+17;;;36.9661;-52.7888;-90;Bottom;TXT2
+18;;;56.4616;-2.53033;-90;Bottom;TXT2
+19;;THT;53.475;-15.1363;90;Bottom;SDS011
+20;;;56.0758;-52.6357;-90;Bottom;TXT2
+21;;;58.8371;-34.0481;-90;Bottom;TXT2
+22;;;42.0082;-23.7793;0;Bottom;TXT2
+23;;THT;54.745;-24.0263;90;Bottom;J8
+24;;;53.7336;-2.64802;-90;Bottom;TXT2
+25;;;50.9075;-32.4688;-90;Bottom;TXT2
+26;;;21.7246;-34.5135;0;Bottom;WeMos D1 Mini
+27;;;53.4417;-52.6357;-90;Bottom;TXT2
+28;;;48.5357;-3.02433;-90;Bottom;TXT2
+29;;THT;54.745;-49.4263;-90;Bottom;J5
+30;;;41.9143;-28.8829;0;Bottom;TXT2
+31;;THT;54.745;-29.1063;90;Bottom;J7
+32;;THT;40.7836;-41.7867;90;Bottom;J2
