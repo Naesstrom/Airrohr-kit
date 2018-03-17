@@ -11,9 +11,10 @@ order here:<br>
 <a href="https://www.pcbway.com/project/shareproject/Airrohr_pcb.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay"></img></a>
 ### luftdata.se
 This is labeled for the Swedish version of the project at [luftdata.se](http://www.luftdata.se) but other then that it's the same layout. <br>
+<img src="assets/luftdata_screen.png"><br>
 order here:<br>
 <a href="https://www.pcbway.com/project/shareproject/Luftdata_airrohr_pcb.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay"></img></a>
-<img src="assets/luftdata_screen.png">
+
 
 ## BOM (Bill Of Materials)
 
