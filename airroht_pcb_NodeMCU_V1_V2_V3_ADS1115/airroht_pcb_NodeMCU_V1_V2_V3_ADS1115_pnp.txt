@@ -1,0 +1,60 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=airroht_pcb_NodeMCU_V1_V2_V3_ADS1115
+*Date=21:36:06
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;59.961;-43.7017;-90;Bottom;TXT2
+2;;;61.2289;-55.2553;-90;Bottom;TXT2
+3;;;40.8855;-56.209;-90;Bottom;TXT2
+4;;;43.4378;-56.209;-90;Bottom;TXT2
+5;;THT;57.2936;-49.4066;90;Bottom;J10
+6;;;28.0015;-48.042;0;Bottom;TXT4
+7;;;19.1648;-29.7814;0;Bottom;NodeMCU V1/V2
+8;;THT;42.062;-40.4968;90;Bottom;J4
+9;;;43.5402;-43.6209;-90;Bottom;TXT2
+10;;;54.9928;-2.66722;-90;Bottom;TXT2
+11;;THT;56.0236;-20.1966;90;Bottom;J7
+12;;;41.0002;-43.809;-90;Bottom;TXT2
+13;4.7k;THT;39.5136;-17.6566;90;Bottom;R1
+14;;;38.3332;-56.3035;-90;Bottom;TXT2
+15;;;49.7948;-3.04353;-90;Bottom;TXT2
+16;;THT;54.7536;-6.22659;90;Bottom;SDS011
+17;;;52.4623;-43.7259;-90;Bottom;TXT2
+18;;THT;56.0236;-32.8966;-90;Bottom;J6
+19;;;47.0874;-19.9731;0;Bottom;TXT2
+20;;;52.1861;-23.559;-90;Bottom;TXT2
+21;;;47.1813;-14.8694;0;Bottom;TXT2
+22;;;57.3544;-43.7258;-90;Bottom;TXT2
+23;;;54.9417;-23.489;-90;Bottom;TXT2
+24;;;9.38414;-48.115;0;Bottom;TXT4
+25;;THT;42.062;-32.8768;90;Bottom;J2
+26;;THT;56.0236;-40.5164;-90;Bottom;J5
+27;;THT;43.3236;-16.3866;0;Bottom;J9
+28;;;52.5233;-3.00346;-90;Bottom;TXT2
+29;;;47.3696;-12.1414;0;Bottom;TXT2
+30;;;57.7207;-2.54953;-90;Bottom;TXT2
+31;;;58.7204;-55.2381;-90;Bottom;TXT2
+32;;;19.2539;-30.7906;0;Bottom;NodeMCU V3
+33;;;54.7201;-43.7258;-90;Bottom;TXT2
+34;;THT;56.0236;-15.1166;90;Bottom;J8
+35;;;60.1156;-25.1383;-90;Bottom;TXT2
+36;;;45.9901;-56.0199;-90;Bottom;TXT2
+37;;;49.6736;-59.8841;0;Bottom;ADS1115
+38;;THT;42.0841;-29.0285;90;Bottom;J3
+39;;;18.7462;-64.4979;0;Bottom;TXT3
+40;;;40.7836;-53.2166;0;Top;Pad1
+41;;;38.2446;-43.8789;-90;Bottom;TXT2
+42;;;53.6931;-55.2595;-90;Bottom;TXT2
+43;;;57.4817;-23.3008;-90;Bottom;TXT2
+44;;;46.0802;-46.6204;-90;Bottom;TXT2
+45;;;56.2468;-55.2805;-90;Bottom;TXT2
