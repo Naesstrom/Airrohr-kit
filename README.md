@@ -6,12 +6,12 @@ There are 2 different versions each in their own folder with Gerber files:<br>
 *(Fritzing version is also available)*
 ### airrohr
 This is labeled with the airrohr project name and good for general use.
-<img src="assets/airrohr_screen.png"><br>
+<img src="images/airrohr_screen.png"><br>
 order here:<br>
 <a href="https://www.pcbway.com/project/shareproject/Airrohr_pcb.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay"></img></a>
 ### luftdata.se
 This is labeled for the Swedish version of the project at [luftdata.se](http://www.luftdata.se) but other then that it's the same layout. <br>
-<img src="assets/luftdata_screen.png"><br>
+<img src="images/luftdata_screen.png"><br>
 order here:<br>
 <a href="https://www.pcbway.com/project/shareproject/Luftdata_airrohr_pcb.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay"></img></a>
 
@@ -29,11 +29,11 @@ This is just for these PCB's and not for a complete airrohr sensor altough the o
 
 ## Assembly
 Solder on all the headers/sockets that you want to use for your project<br>
-<img src="assets/soldered_board.jpg" width="240px">
+<img src="images/soldered_board.jpg" width="240px">
 
 Use the nylon spacers and screws/nuts to mount the board to the bottom of the SDS011 sensor and then connect the cable between the sensor and the board:<br>
-<img src="assets/pcb_sds011.jpg" width="240px">
+<img src="images/pcb_sds011.jpg" width="240px">
 
 The complete package is designed to fit into the 75mm sewer pipe system that the airrohr project uses for mounting and securing the sensor:<br>
-<img src="assets/airrohr_pcb_pipe.jpg" width="240px"><br>
+<img src="images/airrohr_pcb_pipe.jpg" width="240px"><br>
 _(dummy wemos on the image)_

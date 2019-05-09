@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="184.3px" height="198.4px" viewBox="0 0 184.3 198.4" xml:space="preserve">
+<g id="board">
+	<g>
+		<path fill="#787979" d="M172.9,0H11.3C5.1,0,0,5.1,0,11.3v175.7c0,6.2,5.1,11.3,11.3,11.3h161.6c6.2,0,11.3-5.1,11.3-11.3V11.3
+			C184.3,5.1,179.1,0,172.9,0z M7.2,35.6c-2.5,0-4.5-2-4.5-4.5c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
+			C11.8,33.6,9.7,35.6,7.2,35.6z M123.4,191.4c-2.5,0-4.5-2-4.5-4.5c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
+			C128,189.4,125.9,191.4,123.4,191.4z M177,35.6c-2.5,0-4.5-2-4.5-4.5c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
+			C181.5,33.6,179.5,35.6,177,35.6z"/>
+	</g>
+</g>
+<g id="silkscreen">
+</g>
+</svg>
