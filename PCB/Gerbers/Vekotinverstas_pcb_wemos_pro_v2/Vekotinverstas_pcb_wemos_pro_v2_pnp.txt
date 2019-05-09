@@ -1,0 +1,53 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Vekotinverstas_pcb_wemos_pro_v2
+*Date=15:16:39
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;54.7451;-41.8529;-90;Bottom;J6
+2;;;58.8372;-34.0948;-90;Bottom;TXT2
+3;;;42.0082;-23.8259;0;Bottom;TXT2
+4;;;32.5237;-64.053;0;Bottom;TXT3
+5;;;53.4417;-52.6823;-90;Bottom;TXT2
+6;;;53.6632;-32.4455;-90;Bottom;TXT2
+7;;;36.9661;-52.8354;-90;Bottom;TXT2
+8;;;41.9142;-28.9296;0;Bottom;TXT2
+9;;;50.9076;-32.5155;-90;Bottom;TXT2
+10;;;58.6825;-52.6582;-90;Bottom;TXT2
+11;;;44.8017;-55.5769;-90;Bottom;TXT2
+12;;;31.1684;-51.2015;0;Bottom;Hole1
+13;4.7k;THT;20.455;-26.6131;90;Bottom;R1
+14;;;42.1964;-21.0979;0;Bottom;TXT2
+15;;THT;54.7451;-49.4729;-90;Bottom;J5
+16;;;15.4952;-15.7811;0;Bottom;TXT4
+17;;;28.0836;-11.3534;0;Bottom;Via1
+18;;;56.0759;-52.6823;-90;Bottom;TXT2
+19;;THT;54.7451;-29.1531;90;Bottom;J7
+20;;;15.5161;-18.5723;0;Bottom;TXT4
+21;;;51.1839;-52.6824;-90;Bottom;TXT2
+22;;;56.2032;-32.2573;-90;Bottom;TXT2
+23;;;39.7217;-52.7655;-90;Bottom;TXT2
+24;;THT;40.7836;-41.8333;90;Bottom;J2
+25;;THT;38.2351;-25.3431;0;Bottom;J9
+26;;;20.4812;-29.5214;0;Bottom;WeMos D1 Mini1
+27;;;30.968;-13.7152;0;Bottom;Hole3
+28;;THT;40.7836;-34.2133;90;Bottom;J3
+29;;THT;40.7836;-49.4533;90;Bottom;J4
+30;;;51.1526;-3.07108;-90;Bottom;TXT2
+31;;THT;54.7451;-24.0731;90;Bottom;J8
+32;;;48.6475;-3.031;-90;Bottom;TXT2
+33;;THT;53.4751;-15.1831;90;Bottom;SDS011
+34;;;53.7338;-2.69476;-90;Bottom;TXT2
+35;;;42.2617;-52.5773;-90;Bottom;TXT2
+36;;;9.73843;-51.0369;0;Bottom;Hole2
+37;;;56.4617;-2.57708;-90;Bottom;TXT2
+38;;;11.898;-13.2516;0;Bottom;TXT4
