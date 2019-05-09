@@ -1,4 +1,13 @@
-# Airrohr-PCB
+# Airrohr Kit
+
+I got involved in the Airrohr (Luftdaten, Luftdata.se) project in 2017 and it hadn't gained all that momentum yet so most parts was _(and still are)_ connected just with some dupont wires and stuffed into a pipe on the wall! It works but maybe not that pretty and to make it more stable something more sturdy then cables might be used.
+
+Since I'm no programmer but wanted to contribute to the project in some way I started making 3D parts like a [stevensson screen](https://www.thingiverse.com/thing:2821592) for the sensor bit that to felt a bit bulky so this is a more streamlined version.
+
+My goal with this project is to create a easy to use kit that can be made or ordered and requires minimal soldering skills and still looks good.
+
+
+## Airrohr-PCB
 A PCB for the airrohr project located at [luftdaten.info](http://www.luftdaten.info), a citizen science project to measure air particles (PM10 & PM2.5).
 
 ## Versions
