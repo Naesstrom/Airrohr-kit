@@ -105,9 +105,6 @@ Order at [Aisler](https://aisler.net/p/LDIEGBRF)
  - 3x 6mm nylon spacers with nuts/screws or 3d printed alternative.
 
 ## Assembly _(work in progress for the new parts)_
-
-<img src="images/choose_path.png" width="550px">
-
 So this is where you make your choice, a rather small one so don't procrastinate about it since you can always switch between the models. The most important decision is that you want to be a part of the project and help measuring air quality!
 
 Your choices are simply either to build the simpler option with pipes or the tad more advanced version with electrical box and 3d printed parts. You can always start with the pipe version and upgrade later! There's even a version without a PCB that you can find over at [luftdaten.info](http://luftdaten.info) _(international)_ or [luftdata.se](http://luftdata.se) _(Swedish)_ but you still require some hardware like the particle sensor and ESP.
@@ -117,7 +114,8 @@ Solder on all the headers/sockets that you want to use for your project<br>
 <img src="images/soldered_board.jpg" width="240px">
 
 ### Make your choice
-Keep reading to make a Pipe version or click here to [continue to B1](#) to make a box version
+<img src="images/choose_path.png" width="550px">
+Keep reading to make a Pipe version or click here to [continue to B1](#b1---insert-bottom-plate-into-box) to make a box version
 
 #### P1 - Attach the PCB
 Use the nylon spacers and screws/nuts to mount the board to the bottom of the SDS011 sensor and then connect the cable between the sensor and the board:<br>
