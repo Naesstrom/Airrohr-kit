@@ -10,10 +10,11 @@ My goal with this project is to create a easy to use kit that can be made or ord
 
 Now you have to choose a path, either you go all in and buy the electrical box, print all the parts for the complete kit or you just order the PCB and insert it into a standard pipe as the original.
 
-This is how the finished assembly can look.
-| Electrical Box| Pipe          |
-| ------------- |---------------|
-| <img src="images/box_with_lid.jpg" width="350px">      | <img src="images/airrohr_pcb_pipe.jpg" width="350px"> |
+This is how the finished assembly can look with the board showing. Imagine a lid on the box and another bend in the pipe!
+
+| Electrical Box | Pipe |  
+| ------------- | --------------- |  
+| <img src="images/box_no_lid.jpg" width="350px"> | <img src="images/airrohr_pcb_pipe.jpg" width="350px"> |
 
 
 ## BOM (Bill Of Materials)
@@ -22,7 +23,7 @@ This is how the finished assembly can look.
  - SDS011 Particle sensor
  - ESP8266 (NodeMCU or Wemos D1 mini/pro)
  - Sensor (DHT22, BME280, BMP280 etc)
- - Electrical Box _(3D parts are custom for Biltema 46-2021, 116x116x76mm)
+ - Electrical Box _(3D parts are custom for Biltema 46-2021, 116x116x76mm)_
  - Hose 6mm Inner diameter, 200mm long
  - 3x M3x12 screws
  - 1-4 Wood screws to attach to wall
@@ -55,25 +56,25 @@ The PCB also features:
 There are a couple different versions each in their own folder with Gerber files:<br>
 *(Fritzing version is also available)*
 #### airrohr Wemos
-This is labeled with the airrohr project name and good for general use.
+This is labeled with the airrohr project name and good for general use.<br>
 <img src="images/PCB_images/airrohr-wemos-front.PNG" width="350px"><img src="images/PCB_images/airrohr-wemos-back.PNG" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/MCOILVZU)
 
 
 #### Airrohr NodeMCU
-This is made to fit either a NodeMCU v1, v2 or even the Lolin v3 that has a bigger footprint.
+This is made to fit either a NodeMCU v1, v2 or even the Lolin v3 that has a bigger footprint.<br>
 <img src="images/PCB_images/airrohr-nodemcu-front.PNG" width="350px"><img src="images/PCB_images/airrohr-nodemcu-back.PNG" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/XHFMJADZ)
 
 
 #### luftdata.se Wemos
 This is labeled for the Swedish version of the project at [luftdata.se](http://www.luftdata.se) but other then that it's the same layout as the airrohr version above. <br>
-<img src="images/PCB_images/luftdata-wemos-front.PNG" width="350px"><img src="images/PCB_images/luftdata-wemos-back.PNG" width="350px"><br>
+<img src="images/PCB_images/luftdata-wemos-front.png" width="350px"><img src="images/PCB_images/luftdata-wemos-back.png" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/RLNYRZNS)
 
 #### luftdata.se NodeMCU
 This is labeled for the Swedish version of the project at [luftdata.se](http://www.luftdata.se) but other then that it's the same layout as the airrohr version above. <br>
-<img src="images/PCB_images/luftdata-nodemcu-front.PNG" width="350px"><img src="images/PCB_images/luftdata-nodemcu-back.PNG" width="350px"><br>
+<img src="images/PCB_images/luftdata-nodemcu-front.png" width="350px"><img src="images/PCB_images/luftdata-nodemcu-back.png" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/VWREQBIH)
 
 ### Custom versions
@@ -83,7 +84,7 @@ This is a custom board I made for the Finnish iniative [vekotinverstas.fi](http:
 
 <img src="images/PCB_images/vekotinverstas_fi_front.PNG" width="350px"><img src="images/PCB_images/vekotinverstas_fi_back.PNG" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/LDIEGBRF)
-## Assembly
+## Assembly _(work in progress for the new parts)_
 Solder on all the headers/sockets that you want to use for your project<br>
 <img src="images/soldered_board.jpg" width="240px">
 
