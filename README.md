@@ -1,6 +1,27 @@
 # Airrohr Kit
 <img src="images/airrohr-kit-assembly_texts.png"><br>
 
+Table of Contents
+=================
+
+   * [Airrohr Kit](#airrohr-kit)
+      * [Introduktion](#introduktion)
+      * [BOM (Bill Of Materials)](#bom-bill-of-materials)
+         * [Hardware](#hardware)
+         * [3D printed parts](#3d-printed-parts)
+         * [For the PCB](#for-the-pcb)
+      * [Airrohr-PCB](#airrohr-pcb)
+         * [versions](#versions)
+            * [airrohr Wemos](#airrohr-wemos)
+            * [Airrohr NodeMCU](#airrohr-nodemcu)
+            * [luftdata.se Wemos](#luftdatase-wemos)
+            * [luftdata.se NodeMCU](#luftdatase-nodemcu)
+         * [Custom versions](#custom-versions)
+            * [<a href="http://vekotinverstas.fi/" rel="nofollow">vekotinverstas.fi</a>](#vekotinverstasfi)
+      * [Assembly <em>(work in progress for the new parts)</em>](#assembly-work-in-progress-for-the-new-parts)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## Introduktion
 I got involved in the Airrohr (Luftdaten, Luftdata.se) project in 2017 and it hadn't gained all that momentum yet so most parts was _(and still are)_ connected just with some dupont wires and stuffed into a pipe on the wall! It works but maybe not that pretty and to make it more stable something more sturdy then cables might be used.
 
