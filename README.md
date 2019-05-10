@@ -4,21 +4,20 @@
 Table of Contents
 =================
 
-   * [Airrohr Kit](#airrohr-kit)
-      * [Introduktion](#introduktion)
-      * [Airrohr-PCB](#airrohr-pcb)
-         * [versions](#versions)
-            * [airrohr Wemos](#airrohr-wemos)
-            * [Airrohr NodeMCU](#airrohr-nodemcu)
-            * [luftdata.se Wemos](#luftdatase-wemos)
-            * [luftdata.se NodeMCU](#luftdatase-nodemcu)
-         * [Custom versions](#custom-versions)
-            * [vekotinverstas.fi](#vekotinverstasfi)
-      * [BOM (Bill Of Materials)](#bom-bill-of-materials)
-         * [Hardware](#hardware)
-         * [3D printed parts](#3d-printed-parts)
-         * [For the PCB](#for-the-pcb)
-      * [Assembly <em>(work in progress for the new parts)</em>](#assembly-work-in-progress-for-the-new-parts)
+   * [Introduktion](#introduktion)
+   * [Airrohr-PCB](#airrohr-pcb)
+      * [versions](#versions)
+         * [Airrohr Wemos](#airrohr-wemos)
+         * [Airrohr NodeMCU](#airrohr-nodemcu)
+         * [luftdata.se Wemos](#luftdatase-wemos)
+         * [luftdata.se NodeMCU](#luftdatase-nodemcu)
+      * [Custom versions](#custom-versions)
+         * [vekotinverstas.fi](#vekotinverstasfi)
+   * [BOM (Bill Of Materials)](#bom-bill-of-materials)
+      * [Hardware](#hardware)
+      * [3D printed parts](#3d-printed-parts)
+      * [For the PCB](#for-the-pcb)
+   * [Assembly <em>(work in progress for the new parts)</em>](#assembly-work-in-progress-for-the-new-parts)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -47,7 +46,7 @@ The PCB also features:
 ### versions
 There are a couple different versions each in their own folder with Gerber files:<br>
 *(Fritzing version is also available)*
-#### airrohr Wemos
+#### Airrohr Wemos
 This is labeled with the airrohr project name and good for general use.<br>
 <img src="images/PCB_images/airrohr-wemos-front.PNG" width="350px"><img src="images/PCB_images/airrohr-wemos-back.PNG" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/MCOILVZU)
