@@ -6,10 +6,6 @@ Table of Contents
 
    * [Airrohr Kit](#airrohr-kit)
       * [Introduktion](#introduktion)
-      * [BOM (Bill Of Materials)](#bom-bill-of-materials)
-         * [Hardware](#hardware)
-         * [3D printed parts](#3d-printed-parts)
-         * [For the PCB](#for-the-pcb)
       * [Airrohr-PCB](#airrohr-pcb)
          * [versions](#versions)
             * [airrohr Wemos](#airrohr-wemos)
@@ -17,7 +13,11 @@ Table of Contents
             * [luftdata.se Wemos](#luftdatase-wemos)
             * [luftdata.se NodeMCU](#luftdatase-nodemcu)
          * [Custom versions](#custom-versions)
-            * [<a href="http://vekotinverstas.fi/" rel="nofollow">vekotinverstas.fi</a>](#vekotinverstasfi)
+            * [vekotinverstas.fi](#vekotinverstasfi)
+      * [BOM (Bill Of Materials)](#bom-bill-of-materials)
+         * [Hardware](#hardware)
+         * [3D printed parts](#3d-printed-parts)
+         * [For the PCB](#for-the-pcb)
       * [Assembly <em>(work in progress for the new parts)</em>](#assembly-work-in-progress-for-the-new-parts)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
@@ -36,35 +36,6 @@ This is how the finished assembly can look with the board showing. Imagine a lid
 | Electrical Box | Pipe |  
 | ------------- | --------------- |  
 | <img src="images/box_no_lid.jpg" width="350px"> | <img src="images/airrohr_pcb_pipe.jpg" width="350px"> |
-
-
-## BOM (Bill Of Materials)
-
-### Hardware
- - SDS011 Particle sensor
- - ESP8266 (NodeMCU or Wemos D1 mini/pro)
- - Sensor (DHT22, BME280, BMP280 etc)
- - Electrical Box _(3D parts are custom for Biltema 46-2021, 116x116x76mm)_
- - Hose 6mm Inner diameter, 200mm long
- - 3x M3x12 screws
- - 1-4 Wood screws to attach to wall
-
-### 3D printed parts
- - 3x 6mm spacer
- - 1x Airrohr stencil _(optional for painting)_
- - 1x Luftdata stencil _(optional for painting)_
- - 1x Airrohr wall mount
- - 1x Airrohr box sensor pipe _(For 28mm grommets)_
- - 1x Airrohr box sensor ring
- - 1x Airrohr box insert
-
-### For the PCB
- - 2x 1x8 pin header for the wemos _(alternatively 1x15 for the NodeMCU)_
- - 1x4 pin header _(as many as the number of I2C components you want to add)_
- - 1x4 pin header for the DHT22
- - 1x 4.7kOhm resistor for the DHT22
- - 1x JST-XH 5-pin angled connector (800624)
- - 3x 6mm nylon spacers with nuts/screws or 3d printed alternative.
 
 ## Airrohr-PCB
 So this is the main part, the _pièce de résistance_ as one might call it of this entire project! Solder on some header pins and insert the ESP8266 of your choice, connect the standard cables that comes with the SDS011 to the connector and you're ready!
@@ -105,6 +76,35 @@ This is a custom board I made for the Finnish iniative [vekotinverstas.fi](http:
 
 <img src="images/PCB_images/vekotinverstas_fi_front.PNG" width="350px"><img src="images/PCB_images/vekotinverstas_fi_back.PNG" width="350px"><br>
 Order at [Aisler](https://aisler.net/p/LDIEGBRF)
+
+## BOM (Bill Of Materials)
+
+### Hardware
+ - SDS011 Particle sensor
+ - ESP8266 (NodeMCU or Wemos D1 mini/pro)
+ - Sensor (DHT22, BME280, BMP280 etc)
+ - Electrical Box _(3D parts are custom for Biltema 46-2021, 116x116x76mm)_
+ - Hose 6mm Inner diameter, 200mm long
+ - 3x M3x12 screws
+ - 1-4 Wood screws to attach to wall
+
+### 3D printed parts
+ - 3x 6mm spacer
+ - 1x Airrohr stencil _(optional for painting)_
+ - 1x Luftdata stencil _(optional for painting)_
+ - 1x Airrohr wall mount
+ - 1x Airrohr box sensor pipe _(For 28mm grommets)_
+ - 1x Airrohr box sensor ring
+ - 1x Airrohr box insert
+
+### For the PCB
+ - 2x 1x8 pin header for the wemos _(alternatively 1x15 for the NodeMCU)_
+ - 1x4 pin header _(as many as the number of I2C components you want to add)_
+ - 1x4 pin header for the DHT22
+ - 1x 4.7kOhm resistor for the DHT22
+ - 1x JST-XH 5-pin angled connector (800624)
+ - 3x 6mm nylon spacers with nuts/screws or 3d printed alternative.
+
 ## Assembly _(work in progress for the new parts)_
 Solder on all the headers/sockets that you want to use for your project<br>
 <img src="images/soldered_board.jpg" width="240px">
