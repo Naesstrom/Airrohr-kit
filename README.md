@@ -111,7 +111,7 @@ Your choices are simply either to build the simpler option with pipes or the tad
 
 #### 1. solder on headers
 Solder on all the headers/sockets that you want to use for your project<br>
-<img src="images/soldered_board.jpg" width="240px">
+<img src="images/soldered_board.jpg" width="550px">
 
 ### Make your choice
 <img src="images/choose_path.png" width="550px">
@@ -119,11 +119,11 @@ Keep reading to make a Pipe version or click here to [continue to B1](#b1---inse
 
 #### P1 - Attach the PCB
 Use the nylon spacers and screws/nuts to mount the board to the bottom of the SDS011 sensor and then connect the cable between the sensor and the board:<br>
-<img src="images/pcb_sds011.jpg" width="240px">
+<img src="images/pcb_sds011.jpg" width="550px">
 
 #### P2 - Insert into pipe
 The complete package is designed to fit into the 75mm sewer pipe system that the airrohr project uses for mounting and securing the sensor:<br>
-<img src="images/airrohr_pcb_pipe.jpg" width="240px"><br>
+<img src="images/airrohr_pcb_pipe.jpg" width="550px"><br>
 _(dummy wemos on the image)_
 
 ### B1 - Insert bottom plate into box
